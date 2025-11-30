@@ -1,4 +1,5 @@
 # Web App Template (Static Frontend)
+here is csx
 
 Pure React + Tailwind template with shadcn/ui baked in. **Use this README as the checklist for shipping static experiences.**
 
